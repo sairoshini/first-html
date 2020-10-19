@@ -1,0 +1,81 @@
+body{
+  background-image: url(https://cdn1.vectorstock.com/i/1000x1000/21/90/abstract-white-and-colorful-square-background-vector-24062190.jpg);
+    background-repeat: no-repeat;
+background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: oblique;
+    font-weight: bolder;
+    font: normal 16px Arial, Helvetica, sans-serif;;
+  
+}
+.box-1{
+    background-color:;
+    font-family: Arial, Helvetica, sans-serif;
+    color:PURPLE;
+    font-style: italic;
+    padding: 20px 20px 20px;
+}
+.b1{
+    color:black;
+}
+.b2{
+    padding: 20PX 20PX;
+    color: purple;
+   
+}
+.box-2{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(49, 9, 87);
+    font-style: initial;
+}
+.box-3{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(70, 5, 70);
+    font-style: initial;
+}
+.button {
+    
+    border: none;
+    color:navy;
+    padding: 15px 32px;
+    text-align: center;
+    
+    display: inline-block;
+    font-size: 16px;
+  }
+.box-4{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color:purple;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    font-style: initial;
+    font-weight: bold;
+}
+.box-5{
+    background-color:;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-style: initial;
+}
+.box-6{
+    background-color:pink;
+    background-position: top;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(238, 63, 92);
+    font-style: initial;
+    font-size: 25px;
+}
+.b6{
+    font-weight: bolder;
+    font-style: oblique;
+}
